@@ -51,3 +51,20 @@ Please refer to `<repo>/characterization/README.md` for details.
 We ***quantitatively*** measure the impact of different QoS metrics on QoE utilizing seven mainstream regression methods.
 Considering the timeliness of real-world deployment, we compare the prediction accuracy and the time efficiency in both domain-general (for all the applications) and domain-specific scenarios (for specific applications).
 Please refer to `<repo>/benchmark/README.md` for details.
+
+## Citation
+If you find this repo useful, please cite our paper.
+
+```
+@article{li2023demystifying,
+  title={Demystifying the QoS and QoE of Edge-hosted Video Streaming Applications in the Wild with SNESet},
+  author={Li, Yanan and Deng, Guangqing and Bai, Changming and Yang, Jingyu and Wang, Gang and Zhang, Hao and Bai, Jin and Yuan, Haitao and Xu, Mengwei and Wang, Shangguang},
+  journal={Proceedings of the ACM on Management of Data},
+  volume={1},
+  number={4},
+  pages={1--29},
+  year={2023},
+  publisher={ACM New York, NY, USA}
+}
+```
+
